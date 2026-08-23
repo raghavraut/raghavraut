@@ -1,0 +1,8 @@
+finding_id,title,severity,cvss,primary_asset,owner,due_date,status
+F-01,Exchange unpatched public RCE,Critical,9.8,OMI-EXCH-01,r.emmons,2024-11-15,open
+F-02,anonymous SMB share w/ plaintext creds,Critical,9.1,OMI-FS-02,r.emmons,2024-11-15,open
+F-03,shared local admin / PtH,High,8.1,fleet,r.emmons,2024-12-08,open
+F-04,kerberoastable SPNs RC4,High,7.6,AD forest,r.emmons,2024-12-08,open
+F-05,plant NAS default creds,Medium,6.5,OMI-NAS-PLANT1,plant-eng,2025-01-06,open
+F-06,phishing simulation results,Medium,n/a,people,hr+lms,2025-01-06,open
+F-07,naming convention enumeration,Low,3.7,DNS,r.emmons,2025-02-03,accepted

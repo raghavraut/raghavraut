@@ -1,0 +1,9 @@
+todo
+- upload M-24-118 deliverables to portal (sftp creds in keepass)
+- invoice milestone 2 (50%)
+- external version: remove F-05 (plant NAS) per t.sokol email 11/12
+- external version: swap client name for "a discrete manufacturer" per roe 4.2
+- soc eng phase 2 travel, jan. quote hotel per diem.
+- renew burp license dec 1
+- dp-4 pseudonyms verified on v1.3 before upload (they are)
+- push keepass? no. obviously no.

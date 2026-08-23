@@ -1,0 +1,28 @@
+[mailbox export; client-side names and domains replaced with DP-4 pseudonyms for retention]
+
+From: D. Whitfield <d.whitfield@copperlinesecurity.com>
+To: T. Sokol <tsokol@ostrander-mw.com>, R. Emmons <remmons@ostrander-mw.com>
+Date: Fri, 08 Nov 2024 17:41
+Subject: M-24-118 final report v1.3
+
+Tom, Ray,
+
+final v1.3 attached (internal). portal upload to follow once your countersignature lands. as discussed: F-01 and F-02 are the two to fix first; both are a weekend of work and a rotation, not a project.
+
+retest window in feb if the board approves.
+
+- dan
+
+----
+From: T. Sokol <tsokol@ostrander-mw.com>
+To: D. Whitfield <d.whitfield@copperlinesecurity.com>
+Date: Tue, 12 Nov 2024 08:12
+Subject: RE: M-24-118 final report v1.3
+
+received. two things for the external version: drop F-05 entirely (plant group will handle it internally, and i am not litigating OT budget in front of the audit partner), and use the generic company description per 4.2.
+
+board wants the exec summary as a separate pdf.
+
+also: how did the portal upload go last time? finance says they never got the milestone 2 invoice.
+
+tom
