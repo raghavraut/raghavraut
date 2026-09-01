@@ -7,3 +7,4 @@ todo
 - renew burp license dec 1
 - dp-4 pseudonyms verified on v1.3 before upload (they are)
 - push keepass? no. obviously no.
+- done: milestone 2 invoice sent 09-01
