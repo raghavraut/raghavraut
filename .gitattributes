@@ -1,0 +1,2 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+shouldve_paid_the_ransom_harvard_shinyhunters.7z filter=lfs diff=lfs merge=lfs -text
